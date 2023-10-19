@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "starla",
+    "DB_PASSWORD": "hFyK7gJOVTYiNgAR",
+    "DB_NAME": "mern",
+    "JWT_KEY": "mysecretkey"
+  }
+}
