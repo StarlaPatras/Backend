@@ -3,6 +3,7 @@
     "DB_USER": "starla",
     "DB_PASSWORD": "hFyK7gJOVTYiNgAR",
     "DB_NAME": "mern",
-    "JWT_KEY": "mysecretkey"
+    "JWT_KEY": "mysecretkey",
+    "PORT": 5500
   }
 }
